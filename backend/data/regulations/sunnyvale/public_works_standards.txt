@@ -1,0 +1,130 @@
+Sunnyvale Public Works - Design Standards and Specifications
+
+Section 3.1: Street Design Standards
+
+Street Classifications and Widths:
+
+Major Arterials:
+- Total width: 84-100 feet
+- Travel lanes: 4-6 lanes at 11-12 feet each
+- Center median: 12-16 feet (where applicable)
+- Bike lanes: 6 feet each side
+
+Minor Arterials:
+- Total width: 64-84 feet  
+- Travel lanes: 4 lanes at 11 feet each
+- Parking lanes: 8 feet each side
+- Bike lanes: 5 feet each side
+
+Collector Streets:
+- Total width: 56-64 feet
+- Travel lanes: 2-4 lanes at 11 feet each
+- Parking lanes: 7 feet each side
+- Bike lanes: 5 feet each side
+
+Local Streets:
+- Residential: 36-56 feet total width
+- Commercial: 44-60 feet total width
+- Travel lanes: 2 lanes at 10-11 feet each
+- Parking: 7 feet each side
+
+Section 3.2: Sidewalk and Pedestrian Standards
+
+Sidewalk Width Requirements:
+- Arterial streets: 8 feet minimum
+- Collector streets: 6 feet minimum
+- Local residential: 5 feet minimum
+- Local commercial: 8 feet minimum
+- School zones: 8 feet minimum
+
+Sidewalk Construction:
+- Portland cement concrete: 4 inches thick
+- Compacted base: 4 inches aggregate base
+- Joints: every 5 feet maximum
+- ADA compliance required for all new construction
+
+Pedestrian Crossing Standards:
+- Marked crosswalks at all signalized intersections
+- High-visibility striping (ladder or zebra pattern)
+- Pedestrian signals with audible indicators
+- Curb ramps with detectable warning surfaces
+
+Section 3.3: Driveway Specifications
+
+Residential Driveways:
+- Single-family: maximum 16 feet wide
+- Multi-family: maximum 24 feet wide
+- Commercial: maximum 30 feet wide per access point
+- Minimum 3 feet from side property line
+
+Driveway Materials:
+- Concrete: 4 inches thick minimum
+- Asphalt: 3 inches thick over 4 inches base
+- Permeable materials encouraged
+- Apron section: concrete required
+
+Access Management:
+- Maximum 2 driveways per lot
+- Minimum 10 feet between driveways
+- Sight distance requirements at corners
+- No access within 50 feet of intersection
+
+Section 3.4: Street Landscaping and Trees
+
+Street Tree Requirements:
+- Required in all new subdivisions
+- Spacing: 25-30 feet on center
+- Parkway strip: minimum 6 feet wide
+- Tree wells: 4x4 feet minimum in sidewalk areas
+
+Approved Tree Species:
+- Canopy trees: Oak, Maple, Sycamore, Elm varieties
+- Ornamental trees: Flowering Cherry, Pear, Magnolia
+- Native species preferred: Coast Live Oak, Valley Oak
+- Drought-tolerant species required per Water Efficient Landscape Ordinance
+
+Irrigation Requirements:
+- Automatic irrigation required for establishment
+- Drip irrigation preferred for water efficiency
+- Smart controllers required for new installations
+- Separate water meter for landscape irrigation
+
+Section 3.5: Storm Drainage and Green Infrastructure
+
+Stormwater Management Requirements:
+- New development: treat 85th percentile storm event
+- Green infrastructure preferred over traditional drainage
+- Low Impact Development (LID) measures required
+- Bioretention areas required for projects over 10,000 sq ft
+
+Green Infrastructure Specifications:
+- Bioswales: minimum 4 feet wide, 6-18 inches deep
+- Rain gardens: sized for 1.5 times required volume
+- Permeable pavement: minimum 50% for parking areas
+- Tree-well bioretention in commercial areas
+
+Maintenance Requirements:
+- 2-year establishment period for developer
+- Ongoing maintenance by property owner
+- City inspection and approval of maintenance plans
+- Native plant species strongly preferred
+
+Section 3.6: Utilities and Infrastructure
+
+Underground Utilities:
+- All new subdivisions require underground utilities
+- Existing overhead lines: underground conversion encouraged
+- Utility easements: 10 feet minimum width
+- Joint trenching required where feasible
+
+Street Lighting:
+- LED fixtures required for energy efficiency
+- Spacing: 150-200 feet on arterials, 200-300 feet on local
+- Full cutoff fixtures to reduce light pollution
+- Dark sky compliance in sensitive areas
+
+Traffic Control Devices:
+- Stop signs: warrant study required
+- Traffic signals: traffic impact analysis required
+- Speed limit signs: based on 85th percentile speeds
+- School zone signage and markings per Caltrans standards 

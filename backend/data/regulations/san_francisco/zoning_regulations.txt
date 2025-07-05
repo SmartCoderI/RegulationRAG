@@ -1,0 +1,81 @@
+San Francisco Planning Code - Zoning Regulations
+
+Section 134: Minimum Lot Frontage Requirements
+
+For residential districts (RH-1, RH-2, RH-3):
+- Single-family homes: minimum 25 feet lot frontage
+- Two-family dwellings (duplexes): minimum 25 feet lot frontage
+- Three-family dwellings: minimum 30 feet lot frontage
+
+For mixed-use districts (RM-1, RM-2, RM-3, RM-4):
+- Residential buildings up to 4 units: minimum 25 feet lot frontage
+- Buildings with 5+ units: minimum 50 feet lot frontage
+- Mixed-use buildings: minimum 30 feet lot frontage
+
+Section 151: Parking Requirements
+
+Residential parking ratios:
+- Studio and 1-bedroom units: 0.5 spaces per unit
+- 2-bedroom units: 0.75 spaces per unit  
+- 3+ bedroom units: 1 space per unit
+- Affordable housing: reduced by 50%
+
+Commercial parking ratios:
+- Retail: 1 space per 500 sq ft
+- Office: 1 space per 250 sq ft
+- Restaurant: 1 space per 200 sq ft
+
+Section 135: Setback Requirements
+
+Front setbacks:
+- RH districts: 15 feet minimum from property line
+- RM districts: 10 feet minimum from property line
+- Commercial districts: 0 feet permitted (build to lot line)
+
+Rear setbacks:
+- All residential: 25% of lot depth, minimum 15 feet
+- Commercial: 20 feet minimum
+
+Section 138: Building Height Limits
+
+Residential districts:
+- RH-1: 35 feet maximum (3 stories)
+- RH-2: 40 feet maximum (3 stories)  
+- RH-3: 40 feet maximum (3 stories)
+- RM-1: 40 feet maximum
+- RM-2: 50 feet maximum
+- RM-3: 65 feet maximum
+- RM-4: 80 feet maximum
+
+Commercial districts:
+- NC-1: 40 feet maximum
+- NC-2: 50 feet maximum
+- NC-3: 65 feet maximum
+- C-3: varies by sub-district, 200-700 feet
+
+Section 142: Usable Open Space
+
+Required open space per unit:
+- Studios: 60 sq ft private or 48 sq ft common
+- 1-bedroom: 80 sq ft private or 64 sq ft common
+- 2-bedroom: 100 sq ft private or 80 sq ft common
+- 3+ bedroom: 133 sq ft private or 107 sq ft common
+
+Common open space must be accessible to all residents and may include courtyards, roof decks, or landscaped areas.
+
+Section 161: Dwelling Unit Mix
+
+For buildings with 10+ units:
+- Minimum 40% of units must be 2+ bedrooms
+- Maximum 35% of units may be studios
+- Applies to new construction and major alterations
+
+Section 145: Bicycle Parking
+
+Required bicycle parking:
+- Residential: 1 space per unit (minimum 2 spaces)
+- Office: 1 space per 7,500 sq ft
+- Retail: 1 space per 20,000 sq ft
+- Restaurant: 1 space per 20 seats
+
+Bicycle parking must be secure, weather-protected, and easily accessible. 

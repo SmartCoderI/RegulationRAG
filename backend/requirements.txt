@@ -1,0 +1,29 @@
+fastapi
+uvicorn
+langchain
+# OpenAI dependencies (commented out for now)
+# langchain-openai
+# openai
+# Ollama dependencies
+langchain-ollama
+ollama
+langchain-community
+chromadb
+python-dotenv
+pydantic
+python-multipart
+httpx
+pypdf
+tiktoken
+sentence-transformers
+python-jose[cryptography]
+bcrypt
+passlib[bcrypt]
+sqlalchemy
+alembic
+PyPDF2
+# New dependencies for enhancements
+rank-bm25
+cohere
+sse-starlette
+numpy 

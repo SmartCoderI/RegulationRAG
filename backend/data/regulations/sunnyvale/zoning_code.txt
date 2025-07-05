@@ -1,0 +1,116 @@
+Sunnyvale Municipal Code - Title 19 Zoning
+
+Chapter 19.08: Residential District Regulations
+
+Section 19.08.030: Lot Requirements
+
+Single Family Residential (R-0, R-1):
+- Minimum lot area: 6,000 sq ft (R-0), 5,000 sq ft (R-1)
+- Minimum lot width: 60 feet
+- Minimum lot frontage: 50 feet
+- Maximum lot coverage: 40%
+
+Multiple Family Residential (R-2, R-3, R-4):
+- R-2 (duplex): minimum 6,000 sq ft, 60 feet frontage
+- R-3 (triplex): minimum 8,000 sq ft, 70 feet frontage  
+- R-4 (fourplex): minimum 10,000 sq ft, 80 feet frontage
+- Maximum lot coverage: 50%
+
+Section 19.08.040: Setback Requirements
+
+Front yard setbacks:
+- R-0, R-1: 20 feet minimum
+- R-2, R-3, R-4: 15 feet minimum
+- Corner lots: 15 feet on both street sides
+
+Side yard setbacks:
+- Single-story: 5 feet minimum each side
+- Two-story: 6 feet minimum each side
+- Three-story: 8 feet minimum each side
+
+Rear yard setbacks:
+- All residential: 20 feet minimum
+- Accessory structures: 5 feet minimum
+
+Section 19.12: Parking Requirements
+
+Residential parking:
+- Single-family: 2 covered spaces per unit
+- Duplex: 2 covered spaces per unit
+- Multi-family: 1.5 covered spaces per unit
+- Guest parking: 0.25 spaces per unit for 5+ unit buildings
+
+Commercial parking:
+- Office: 1 space per 300 sq ft
+- Retail: 1 space per 200 sq ft
+- Restaurant: 1 space per 100 sq ft dining area
+- Medical office: 1 space per 150 sq ft
+
+Section 19.14: Height Restrictions
+
+Building height limits:
+- R-0: 30 feet maximum (2 stories)
+- R-1: 35 feet maximum (2.5 stories)
+- R-2, R-3: 35 feet maximum
+- R-4: 45 feet maximum (3 stories)
+
+Accessory structure heights:
+- Detached garages: 15 feet maximum
+- Storage sheds: 12 feet maximum
+- Covered patios: 12 feet maximum
+
+Chapter 19.16: Commercial and Industrial Districts
+
+Section 19.16.020: Commercial Districts
+
+Neighborhood Commercial (CN):
+- Maximum height: 35 feet
+- Minimum setbacks: 0 feet front, 10 feet rear
+- Maximum lot coverage: 80%
+
+General Commercial (CG):
+- Maximum height: 45 feet
+- Minimum setbacks: 0 feet front, 15 feet rear
+- Maximum lot coverage: 90%
+
+Section 19.16.030: Industrial Districts
+
+Light Industrial (ML):
+- Maximum height: 35 feet
+- Minimum setbacks: 20 feet all sides
+- Maximum lot coverage: 70%
+
+General Industrial (MG):
+- Maximum height: 45 feet
+- Minimum setbacks: 25 feet all sides
+- Maximum lot coverage: 75%
+
+Chapter 19.20: Special Requirements
+
+Section 19.20.010: Landscaping Requirements
+
+Front yard landscaping:
+- Minimum 50% of front yard must be landscaped
+- Street trees required every 30 feet
+- Drought-tolerant plants encouraged
+- Artificial turf prohibited in front yards
+
+Parking lot landscaping:
+- 5% of parking area must be landscaped
+- Shade trees required (1 tree per 8 parking spaces)
+- Perimeter landscaping: 5 feet minimum width
+- Interior landscape islands: 8 feet minimum width
+
+Section 19.20.020: Bicycle Parking
+
+Required bicycle parking:
+- Residential: 1 space per unit
+- Office: 1 space per 10 employees
+- Retail: 1 space per 2,000 sq ft
+- Restaurant: 1 space per 10 seats
+
+Bicycle parking specifications:
+- Covered and secure for residential
+- Class I (secure) for overnight parking
+- Class II (accessible) for short-term parking
+- Must be within 200 feet of main entrance 

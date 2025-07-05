@@ -1,0 +1,336 @@
+INFO:__main__:Starting user document ingestion process with Ollama...
+INFO:httpx:HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 200 OK"
+INFO:__main__:✓ Ollama is running and accessible
+INFO:__main__:Processing documents from /Users/yuqingwu/Documents/CS/RAG Land Development/source documents
+INFO:__main__:Processing: City of Sunnyvale Heritage Resources Inventory.pdf
+INFO:__main__:✓ Loaded: Sunnyvale - City of Sunnyvale Heritage Resources Inventory (Sunnyvale, historic_preservation)
+INFO:__main__:Processing: Sunnyvale Storm Drain Systems Design Standards.pdf
+INFO:__main__:✓ Loaded: Sunnyvale - Sunnyvale Storm Drain Systems Design Standards (Sunnyvale, design_guidelines)
+INFO:__main__:Processing: CALGreenResidentialMandatoryChecklist.pdf
+INFO:__main__:✓ Loaded: California - CALGreenResidentialMandatoryChecklist (California, design_guidelines)
+INFO:__main__:Processing: Recycled Water Design and Construction Standards.pdf
+INFO:__main__:✓ Loaded: General - Recycled Water Design and Construction Standards (General, street_standards)
+INFO:__main__:Processing: City of Sunnyvale, CA Zoning.pdf
+INFO:__main__:✓ Loaded: Sunnyvale - City of Sunnyvale, CA Zoning (Sunnyvale, zoning)
+INFO:__main__:Processing: BetterStreetsPlan_SupplementalApplication.pdf
+INFO:__main__:✓ Loaded: General - BetterStreetsPlan SupplementalApplication (General, street_standards)
+INFO:__main__:Processing: Sunnyvale Eichler Design Guidelines.pdf
+INFO:__main__:✓ Loaded: Sunnyvale - Sunnyvale Eichler Design Guidelines (Sunnyvale, design_guidelines)
+INFO:__main__:Processing: Sunnyvale Citywide Objective Design Standards for MultiFamily and MixedUse Development.pdf
+INFO:__main__:✓ Loaded: Sunnyvale - Sunnyvale Citywide Objective Design Standards for MultiFamily and MixedUse Development (Sunnyvale, design_guidelines)
+INFO:__main__:Processing: Sunnyvale Standard Specifications for Public Works Construction.pdf
+INFO:__main__:✓ Loaded: Sunnyvale - Sunnyvale Standard Specifications for Public Works Construction (Sunnyvale, street_standards)
+INFO:__main__:Processing: Better-Streets-Plan_Final-Adopted-10-7-2010.pdf
+INFO:__main__:✓ Loaded: General - Better Streets Plan Final Adopted 10 7 2010 (General, street_standards)
+INFO:__main__:Processing: Standard Specifications for Public Works Construction.pdf
+INFO:__main__:✓ Loaded: General - Standard Specifications for Public Works Construction (General, street_standards)
+INFO:__main__:Processing: Sunnyvale Roadway Lighting Design Criteria.pdf
+INFO:__main__:✓ Loaded: Sunnyvale - Sunnyvale Roadway Lighting Design Criteria (Sunnyvale, street_standards)
+INFO:__main__:Processing: Sunnyvale Sanitary Sewer Design Guidelines.pdf
+INFO:__main__:✓ Loaded: Sunnyvale - Sunnyvale Sanitary Sewer Design Guidelines (Sunnyvale, design_guidelines)
+INFO:__main__:Processing: Sunnyvale Stormwater Best Management Practices for Construction.pdf
+INFO:__main__:✓ Loaded: Sunnyvale - Sunnyvale Stormwater Best Management Practices for Construction (Sunnyvale, street_standards)
+INFO:__main__:Processing: ResidentialDesignGuidelines_GeneralHandout.pdf
+INFO:__main__:✓ Loaded: General - ResidentialDesignGuidelines GeneralHandout (General, design_guidelines)
+INFO:__main__:Processing: SF residential_design_guidelines.pdf
+INFO:__main__:✓ Loaded: San Francisco - SF residential design guidelines (San Francisco, design_guidelines)
+INFO:__main__:Processing: Sunnyvale Potable Water Design Guidelines.pdf
+INFO:__main__:✓ Loaded: Sunnyvale - Sunnyvale Potable Water Design Guidelines (Sunnyvale, design_guidelines)
+INFO:__main__:Processing: Sunnyvale Single Family Home Design Techniques.pdf
+INFO:__main__:✓ Loaded: Sunnyvale - Sunnyvale Single Family Home Design Techniques (Sunnyvale, design_guidelines)
+INFO:__main__:Processing: Sunnyvale NonResidential Design Guidelines.pdf
+INFO:__main__:✓ Loaded: Sunnyvale - Sunnyvale NonResidential Design Guidelines (Sunnyvale, design_guidelines)
+INFO:__main__:Processing: SF muni code.pdf
+INFO:__main__:✓ Loaded: San Francisco - SF muni code (San Francisco, general)
+INFO:__main__:Processing: CALGreenCommercialMandatoryChecklist.pdf
+INFO:__main__:✓ Loaded: California - CALGreenCommercialMandatoryChecklist (California, environmental)
+INFO:__main__:Found 21 documents to ingest
+INFO:__main__:Document Summary:
+INFO:__main__:Cities: {'Sunnyvale': 12, 'California': 2, 'General': 5, 'San Francisco': 2}
+INFO:__main__:Categories: {'historic_preservation': 1, 'design_guidelines': 10, 'street_standards': 7, 'zoning': 1, 'general': 1, 'environmental': 1}
+INFO:__main__:
+Document List:
+INFO:__main__: 1. Sunnyvale - City of Sunnyvale Heritage Resources Inventory
+INFO:__main__: 2. Sunnyvale - Sunnyvale Storm Drain Systems Design Standards
+INFO:__main__: 3. California - CALGreenResidentialMandatoryChecklist
+INFO:__main__: 4. General - Recycled Water Design and Construction Standards
+INFO:__main__: 5. Sunnyvale - City of Sunnyvale, CA Zoning
+INFO:__main__: 6. General - BetterStreetsPlan SupplementalApplication
+INFO:__main__: 7. Sunnyvale - Sunnyvale Eichler Design Guidelines
+INFO:__main__: 8. Sunnyvale - Sunnyvale Citywide Objective Design Standards for MultiFamily and MixedUse Development
+INFO:__main__: 9. Sunnyvale - Sunnyvale Standard Specifications for Public Works Construction
+INFO:__main__:10. General - Better Streets Plan Final Adopted 10 7 2010
+INFO:__main__:11. General - Standard Specifications for Public Works Construction
+INFO:__main__:12. Sunnyvale - Sunnyvale Roadway Lighting Design Criteria
+INFO:__main__:13. Sunnyvale - Sunnyvale Sanitary Sewer Design Guidelines
+INFO:__main__:14. Sunnyvale - Sunnyvale Stormwater Best Management Practices for Construction
+INFO:__main__:15. General - ResidentialDesignGuidelines GeneralHandout
+INFO:__main__:16. San Francisco - SF residential design guidelines
+INFO:__main__:17. Sunnyvale - Sunnyvale Potable Water Design Guidelines
+INFO:__main__:18. Sunnyvale - Sunnyvale Single Family Home Design Techniques
+INFO:__main__:19. Sunnyvale - Sunnyvale NonResidential Design Guidelines
+INFO:__main__:20. San Francisco - SF muni code
+INFO:__main__:21. California - CALGreenCommercialMandatoryChecklist
+
+Ready to ingest 21 documents into the RAG system.
+This will:
+- Create embeddings for all documents using Ollama (FREE!)
+- Store them in the ChromaDB vector database
+- Make them searchable via the chat interface
+- Use local AI models (no API costs)
+
+Proceed with ingestion? (y/n): ERROR:__main__:Error in main process: [Errno 5] Input/output error
+2025-07-03 15:33:57,758 - INFO - Loading user documents from /Users/yuqingwu/Documents/CS/RAG Land Development/source documents...
+2025-07-03 15:33:57,868 - INFO - Processing documents from /Users/yuqingwu/Documents/CS/RAG Land Development/source documents
+2025-07-03 15:33:57,868 - INFO - Processing: City of Sunnyvale Heritage Resources Inventory.pdf
+2025-07-03 15:33:57,934 - INFO - ✓ Loaded: Sunnyvale - City of Sunnyvale Heritage Resources Inventory (Sunnyvale, historic_preservation)
+2025-07-03 15:33:57,934 - INFO - Processing: Sunnyvale Storm Drain Systems Design Standards.pdf
+2025-07-03 15:33:58,147 - INFO - ✓ Loaded: Sunnyvale - Sunnyvale Storm Drain Systems Design Standards (Sunnyvale, design_guidelines)
+2025-07-03 15:33:58,147 - INFO - Processing: CALGreenResidentialMandatoryChecklist.pdf
+2025-07-03 15:33:58,232 - INFO - ✓ Loaded: California - CALGreenResidentialMandatoryChecklist (California, design_guidelines)
+2025-07-03 15:33:58,232 - INFO - Processing: Recycled Water Design and Construction Standards.pdf
+2025-07-03 15:33:58,626 - INFO - ✓ Loaded: General - Recycled Water Design and Construction Standards (General, street_standards)
+2025-07-03 15:33:58,626 - INFO - Processing: City of Sunnyvale, CA Zoning.pdf
+2025-07-03 15:34:02,597 - INFO - ✓ Loaded: Sunnyvale - City of Sunnyvale, CA Zoning (Sunnyvale, zoning)
+2025-07-03 15:34:02,597 - INFO - Processing: BetterStreetsPlan_SupplementalApplication.pdf
+2025-07-03 15:34:02,632 - INFO - ✓ Loaded: General - BetterStreetsPlan SupplementalApplication (General, street_standards)
+2025-07-03 15:34:02,632 - INFO - Processing: Sunnyvale Eichler Design Guidelines.pdf
+2025-07-03 15:34:02,738 - INFO - ✓ Loaded: Sunnyvale - Sunnyvale Eichler Design Guidelines (Sunnyvale, design_guidelines)
+2025-07-03 15:34:02,738 - INFO - Processing: SVwater.pdf
+2025-07-03 15:34:03,101 - INFO - ✓ Loaded: General - SVwater (General, utilities)
+2025-07-03 15:34:03,101 - INFO - Processing: Sunnyvale Citywide Objective Design Standards for MultiFamily and MixedUse Development.pdf
+2025-07-03 15:34:03,888 - INFO - ✓ Loaded: Sunnyvale - Sunnyvale Citywide Objective Design Standards for MultiFamily and MixedUse Development (Sunnyvale, design_guidelines)
+2025-07-03 15:34:03,888 - INFO - Processing: Sunnyvale Standard Specifications for Public Works Construction.pdf
+2025-07-03 15:34:04,806 - INFO - ✓ Loaded: Sunnyvale - Sunnyvale Standard Specifications for Public Works Construction (Sunnyvale, street_standards)
+2025-07-03 15:34:04,806 - INFO - Processing: Better-Streets-Plan_Final-Adopted-10-7-2010.pdf
+2025-07-03 15:34:17,053 - INFO - ✓ Loaded: General - Better Streets Plan Final Adopted 10 7 2010 (General, street_standards)
+2025-07-03 15:34:17,053 - INFO - Processing: Standard Specifications for Public Works Construction.pdf
+2025-07-03 15:34:18,087 - INFO - ✓ Loaded: General - Standard Specifications for Public Works Construction (General, street_standards)
+2025-07-03 15:34:18,087 - INFO - Processing: Sunnyvale Roadway Lighting Design Criteria.pdf
+2025-07-03 15:34:18,132 - INFO - ✓ Loaded: Sunnyvale - Sunnyvale Roadway Lighting Design Criteria (Sunnyvale, street_standards)
+2025-07-03 15:34:18,132 - INFO - Processing: Sunnyvale Sanitary Sewer Design Guidelines.pdf
+2025-07-03 15:34:18,328 - INFO - ✓ Loaded: Sunnyvale - Sunnyvale Sanitary Sewer Design Guidelines (Sunnyvale, design_guidelines)
+2025-07-03 15:34:18,328 - INFO - Processing: Sunnyvale Stormwater Best Management Practices for Construction.pdf
+2025-07-03 15:34:18,340 - INFO - ✓ Loaded: Sunnyvale - Sunnyvale Stormwater Best Management Practices for Construction (Sunnyvale, street_standards)
+2025-07-03 15:34:18,340 - INFO - Processing: ResidentialDesignGuidelines_GeneralHandout.pdf
+2025-07-03 15:34:18,384 - INFO - ✓ Loaded: General - ResidentialDesignGuidelines GeneralHandout (General, design_guidelines)
+2025-07-03 15:34:18,384 - INFO - Processing: SF residential_design_guidelines.pdf
+2025-07-03 15:34:18,856 - INFO - ✓ Loaded: San Francisco - SF residential design guidelines (San Francisco, design_guidelines)
+2025-07-03 15:34:18,856 - INFO - Processing: Sunnyvale Potable Water Design Guidelines.pdf
+2025-07-03 15:34:19,159 - INFO - ✓ Loaded: Sunnyvale - Sunnyvale Potable Water Design Guidelines (Sunnyvale, design_guidelines)
+2025-07-03 15:34:19,159 - INFO - Processing: Sunnyvale Single Family Home Design Techniques.pdf
+2025-07-03 15:34:19,339 - INFO - ✓ Loaded: Sunnyvale - Sunnyvale Single Family Home Design Techniques (Sunnyvale, design_guidelines)
+2025-07-03 15:34:19,340 - INFO - Processing: Sunnyvale NonResidential Design Guidelines.pdf
+2025-07-03 15:34:19,548 - INFO - ✓ Loaded: Sunnyvale - Sunnyvale NonResidential Design Guidelines (Sunnyvale, design_guidelines)
+2025-07-03 15:34:19,548 - INFO - Processing: CALGreenCommercialMandatoryChecklist.pdf
+2025-07-03 15:34:19,810 - INFO - ✓ Loaded: California - CALGreenCommercialMandatoryChecklist (California, environmental)
+2025-07-03 15:34:19,810 - INFO - Found 21 documents to ingest
+2025-07-03 15:34:19,810 - INFO - 📊 Document Summary:
+2025-07-03 15:34:19,810 - INFO -    Cities: {'Sunnyvale': 12, 'California': 2, 'General': 6, 'San Francisco': 1}
+2025-07-03 15:34:19,810 - INFO -    Categories: {'historic_preservation': 1, 'design_guidelines': 10, 'street_standards': 7, 'zoning': 1, 'utilities': 1, 'environmental': 1}
+2025-07-03 15:34:19,810 - INFO - Initializing Enhanced RAG service...
+2025-07-03 15:34:19,810 - WARNING - COHERE_API_KEY not set - reranking will be disabled
+2025-07-03 15:34:19,810 - INFO - Initializing Ollama with model: llama3.2:1b
+2025-07-03 15:34:19,810 - INFO - Ollama base URL: http://localhost:11434
+2025-07-03 15:34:20,053 - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-07-03 15:34:20,053 - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-07-03 15:34:20,056 - ERROR - Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given
+2025-07-03 15:34:20,113 - INFO - BM25 index initialized with 17 documents
+2025-07-03 15:34:20,392 - INFO - Started new ingestion session: 20250703_153420
+2025-07-03 15:34:20,392 - INFO - 🚀 Starting ingestion session: 20250703_153420
+2025-07-03 15:34:20,392 - WARNING - COHERE_API_KEY not set - reranking will be disabled
+2025-07-03 15:34:20,392 - INFO - Initializing Ollama with model: llama3.2:1b
+2025-07-03 15:34:20,392 - INFO - Ollama base URL: http://localhost:11434
+2025-07-03 15:34:20,417 - ERROR - Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+2025-07-03 15:34:20,417 - ERROR - Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+2025-07-03 15:34:20,419 - INFO - BM25 index initialized with 17 documents
+2025-07-03 15:34:20,419 - INFO - ✅ Enhanced RAG service initialized successfully
+2025-07-03 15:34:20,419 - INFO - 🔄 Starting document ingestion...
+2025-07-03 15:34:20,419 - INFO - 📄 Starting: Sunnyvale - City of Sunnyvale Heritage Resources Inventory
+2025-07-03 15:34:20,419 - INFO - Processing document: Sunnyvale - City of Sunnyvale Heritage Resources Inventory
+2025-07-03 15:34:20,419 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:34:21,164 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:34:21,195 - INFO - BM25 index initialized with 32 documents
+2025-07-03 15:34:21,195 - INFO - Added 15 document chunks to vector store
+2025-07-03 15:34:21,195 - INFO - ✓ Completed: Sunnyvale - City of Sunnyvale Heritage Resources Inventory (~12 chunks)
+2025-07-03 15:34:21,196 - INFO - ✅ Completed: Sunnyvale - City of Sunnyvale Heritage Resources Inventory (chunks: 12, time: 1.4s)
+2025-07-03 15:34:21,197 - INFO - 📄 Starting: Sunnyvale - Sunnyvale Storm Drain Systems Design Standards
+2025-07-03 15:34:21,197 - INFO - Processing document: Sunnyvale - Sunnyvale Storm Drain Systems Design Standards
+2025-07-03 15:34:21,198 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:34:22,203 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:34:22,251 - INFO - BM25 index initialized with 58 documents
+2025-07-03 15:34:22,251 - INFO - Added 26 document chunks to vector store
+2025-07-03 15:34:22,251 - INFO - ✓ Completed: Sunnyvale - Sunnyvale Storm Drain Systems Design Standards (~19 chunks)
+2025-07-03 15:34:22,251 - INFO - ✅ Completed: Sunnyvale - Sunnyvale Storm Drain Systems Design Standards (chunks: 19, time: 2.4s)
+2025-07-03 15:34:22,252 - INFO - 📄 Starting: California - CALGreenResidentialMandatoryChecklist
+2025-07-03 15:34:22,252 - INFO - Processing document: California - CALGreenResidentialMandatoryChecklist
+2025-07-03 15:34:22,252 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:34:22,863 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:34:22,920 - INFO - BM25 index initialized with 75 documents
+2025-07-03 15:34:22,924 - INFO - Added 17 document chunks to vector store
+2025-07-03 15:34:22,924 - INFO - ✓ Completed: California - CALGreenResidentialMandatoryChecklist (~13 chunks)
+2025-07-03 15:34:22,925 - INFO - ✅ Completed: California - CALGreenResidentialMandatoryChecklist (chunks: 13, time: 3.1s)
+2025-07-03 15:34:22,927 - INFO - 📄 Starting: General - Recycled Water Design and Construction Standards
+2025-07-03 15:34:22,927 - INFO - Processing document: General - Recycled Water Design and Construction Standards
+2025-07-03 15:34:22,928 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:34:25,992 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:34:26,074 - INFO - BM25 index initialized with 142 documents
+2025-07-03 15:34:26,074 - INFO - Added 67 document chunks to vector store
+2025-07-03 15:34:26,074 - INFO - ✓ Completed: General - Recycled Water Design and Construction Standards (~53 chunks)
+2025-07-03 15:34:26,074 - INFO - ✅ Completed: General - Recycled Water Design and Construction Standards (chunks: 53, time: 6.3s)
+2025-07-03 15:34:26,075 - INFO - 📊 Progress: 4/21 (19.0%) - ETA: 27s
+2025-07-03 15:34:26,075 - INFO - 📄 Starting: Sunnyvale - City of Sunnyvale, CA Zoning
+2025-07-03 15:34:26,075 - INFO - Processing document: Sunnyvale - City of Sunnyvale, CA Zoning
+2025-07-03 15:34:26,089 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:35:22,032 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:35:23,430 - INFO - BM25 index initialized with 1513 documents
+2025-07-03 15:35:23,432 - INFO - Added 1371 document chunks to vector store
+2025-07-03 15:35:23,432 - INFO - ✓ Completed: Sunnyvale - City of Sunnyvale, CA Zoning (~1102 chunks)
+2025-07-03 15:35:23,432 - INFO - ✅ Completed: Sunnyvale - City of Sunnyvale, CA Zoning (chunks: 1102, time: 63.6s)
+2025-07-03 15:35:23,433 - INFO - 📊 Progress: 5/21 (23.8%) - ETA: 204s
+2025-07-03 15:35:23,434 - INFO - 📄 Starting: General - BetterStreetsPlan SupplementalApplication
+2025-07-03 15:35:23,434 - INFO - Processing document: General - BetterStreetsPlan SupplementalApplication
+2025-07-03 15:35:23,434 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:35:24,007 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:35:24,150 - INFO - BM25 index initialized with 1523 documents
+2025-07-03 15:35:24,151 - INFO - Added 10 document chunks to vector store
+2025-07-03 15:35:24,152 - INFO - ✓ Completed: General - BetterStreetsPlan SupplementalApplication (~7 chunks)
+2025-07-03 15:35:24,152 - INFO - ✅ Completed: General - BetterStreetsPlan SupplementalApplication (chunks: 7, time: 64.3s)
+2025-07-03 15:35:24,153 - INFO - 📄 Starting: Sunnyvale - Sunnyvale Eichler Design Guidelines
+2025-07-03 15:35:24,153 - INFO - Processing document: Sunnyvale - Sunnyvale Eichler Design Guidelines
+2025-07-03 15:35:24,153 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:35:26,332 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:35:26,539 - INFO - BM25 index initialized with 1583 documents
+2025-07-03 15:35:26,540 - INFO - Added 60 document chunks to vector store
+2025-07-03 15:35:26,541 - INFO - ✓ Completed: Sunnyvale - Sunnyvale Eichler Design Guidelines (~47 chunks)
+2025-07-03 15:35:26,541 - INFO - ✅ Completed: Sunnyvale - Sunnyvale Eichler Design Guidelines (chunks: 47, time: 66.7s)
+2025-07-03 15:35:26,541 - INFO - 📄 Starting: General - SVwater
+2025-07-03 15:35:26,541 - INFO - Processing document: General - SVwater
+2025-07-03 15:35:26,543 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:35:31,080 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:35:31,381 - INFO - BM25 index initialized with 1714 documents
+2025-07-03 15:35:31,384 - INFO - Added 131 document chunks to vector store
+2025-07-03 15:35:31,384 - INFO - ✓ Completed: General - SVwater (~103 chunks)
+2025-07-03 15:35:31,384 - INFO - ✅ Completed: General - SVwater (chunks: 103, time: 71.6s)
+2025-07-03 15:35:31,386 - INFO - 📊 Progress: 8/21 (38.1%) - ETA: 116s
+2025-07-03 15:35:31,386 - INFO - 📄 Starting: Sunnyvale - Sunnyvale Citywide Objective Design Standards for MultiFamily and MixedUse Development
+2025-07-03 15:35:31,386 - INFO - Processing document: Sunnyvale - Sunnyvale Citywide Objective Design Standards for MultiFamily and MixedUse Development
+2025-07-03 15:35:31,388 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:35:36,227 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:35:36,558 - INFO - BM25 index initialized with 1856 documents
+2025-07-03 15:35:36,560 - INFO - Added 142 document chunks to vector store
+2025-07-03 15:35:36,560 - INFO - ✓ Completed: Sunnyvale - Sunnyvale Citywide Objective Design Standards for MultiFamily and MixedUse Development (~111 chunks)
+2025-07-03 15:35:36,560 - INFO - ✅ Completed: Sunnyvale - Sunnyvale Citywide Objective Design Standards for MultiFamily and MixedUse Development (chunks: 111, time: 76.8s)
+2025-07-03 15:35:36,561 - INFO - 📊 Progress: 9/21 (42.9%) - ETA: 102s
+2025-07-03 15:35:36,561 - INFO - 📄 Starting: Sunnyvale - Sunnyvale Standard Specifications for Public Works Construction
+2025-07-03 15:35:36,561 - INFO - Processing document: Sunnyvale - Sunnyvale Standard Specifications for Public Works Construction
+2025-07-03 15:35:36,563 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:35:41,970 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:35:42,280 - INFO - BM25 index initialized with 1996 documents
+2025-07-03 15:35:42,282 - INFO - Added 140 document chunks to vector store
+2025-07-03 15:35:42,282 - INFO - ✓ Completed: Sunnyvale - Sunnyvale Standard Specifications for Public Works Construction (~111 chunks)
+2025-07-03 15:35:42,282 - INFO - ✅ Completed: Sunnyvale - Sunnyvale Standard Specifications for Public Works Construction (chunks: 111, time: 82.5s)
+2025-07-03 15:35:42,283 - INFO - 📊 Progress: 10/21 (47.6%) - ETA: 91s
+2025-07-03 15:35:42,283 - INFO - 📄 Starting: General - Better Streets Plan Final Adopted 10 7 2010
+2025-07-03 15:35:42,283 - INFO - Processing document: General - Better Streets Plan Final Adopted 10 7 2010
+2025-07-03 15:35:42,292 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:36:10,851 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:36:11,825 - INFO - BM25 index initialized with 2857 documents
+2025-07-03 15:36:11,829 - INFO - Added 861 document chunks to vector store
+2025-07-03 15:36:11,829 - INFO - ✓ Completed: General - Better Streets Plan Final Adopted 10 7 2010 (~658 chunks)
+2025-07-03 15:36:11,829 - INFO - ✅ Completed: General - Better Streets Plan Final Adopted 10 7 2010 (chunks: 658, time: 112.0s)
+2025-07-03 15:36:11,831 - INFO - 📊 Progress: 11/21 (52.4%) - ETA: 102s
+2025-07-03 15:36:11,831 - INFO - 📄 Starting: General - Standard Specifications for Public Works Construction
+2025-07-03 15:36:11,831 - INFO - Processing document: General - Standard Specifications for Public Works Construction
+2025-07-03 15:36:11,832 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:36:17,424 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:36:17,819 - INFO - BM25 index initialized with 2997 documents
+2025-07-03 15:36:17,824 - INFO - Added 140 document chunks to vector store
+2025-07-03 15:36:17,824 - INFO - ✓ Completed: General - Standard Specifications for Public Works Construction (~111 chunks)
+2025-07-03 15:36:17,824 - INFO - ✅ Completed: General - Standard Specifications for Public Works Construction (chunks: 111, time: 118.0s)
+2025-07-03 15:36:17,825 - INFO - 📊 Progress: 12/21 (57.1%) - ETA: 89s
+2025-07-03 15:36:17,825 - INFO - 📄 Starting: Sunnyvale - Sunnyvale Roadway Lighting Design Criteria
+2025-07-03 15:36:17,825 - INFO - Processing document: Sunnyvale - Sunnyvale Roadway Lighting Design Criteria
+2025-07-03 15:36:17,825 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:36:18,391 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:36:18,666 - INFO - BM25 index initialized with 3011 documents
+2025-07-03 15:36:18,669 - INFO - Added 14 document chunks to vector store
+2025-07-03 15:36:18,669 - INFO - ✓ Completed: Sunnyvale - Sunnyvale Roadway Lighting Design Criteria (~10 chunks)
+2025-07-03 15:36:18,669 - INFO - ✅ Completed: Sunnyvale - Sunnyvale Roadway Lighting Design Criteria (chunks: 10, time: 118.9s)
+2025-07-03 15:36:18,670 - INFO - 📄 Starting: Sunnyvale - Sunnyvale Sanitary Sewer Design Guidelines
+2025-07-03 15:36:18,670 - INFO - Processing document: Sunnyvale - Sunnyvale Sanitary Sewer Design Guidelines
+2025-07-03 15:36:18,671 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:36:19,802 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:36:20,091 - INFO - BM25 index initialized with 3042 documents
+2025-07-03 15:36:20,095 - INFO - Added 31 document chunks to vector store
+2025-07-03 15:36:20,095 - INFO - ✓ Completed: Sunnyvale - Sunnyvale Sanitary Sewer Design Guidelines (~23 chunks)
+2025-07-03 15:36:20,095 - INFO - ✅ Completed: Sunnyvale - Sunnyvale Sanitary Sewer Design Guidelines (chunks: 23, time: 120.3s)
+2025-07-03 15:36:20,095 - INFO - 📄 Starting: Sunnyvale - Sunnyvale Stormwater Best Management Practices for Construction
+2025-07-03 15:36:20,095 - INFO - Processing document: Sunnyvale - Sunnyvale Stormwater Best Management Practices for Construction
+2025-07-03 15:36:20,096 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:36:20,537 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:36:20,910 - INFO - BM25 index initialized with 3054 documents
+2025-07-03 15:36:20,913 - INFO - Added 12 document chunks to vector store
+2025-07-03 15:36:20,913 - INFO - ✓ Completed: Sunnyvale - Sunnyvale Stormwater Best Management Practices for Construction (~9 chunks)
+2025-07-03 15:36:20,913 - INFO - ✅ Completed: Sunnyvale - Sunnyvale Stormwater Best Management Practices for Construction (chunks: 9, time: 121.1s)
+2025-07-03 15:36:20,914 - INFO - 📄 Starting: General - ResidentialDesignGuidelines GeneralHandout
+2025-07-03 15:36:20,914 - INFO - Processing document: General - ResidentialDesignGuidelines GeneralHandout
+2025-07-03 15:36:20,914 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:36:21,385 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:36:21,667 - INFO - BM25 index initialized with 3066 documents
+2025-07-03 15:36:21,671 - INFO - Added 12 document chunks to vector store
+2025-07-03 15:36:21,671 - INFO - ✓ Completed: General - ResidentialDesignGuidelines GeneralHandout (~9 chunks)
+2025-07-03 15:36:21,671 - INFO - ✅ Completed: General - ResidentialDesignGuidelines GeneralHandout (chunks: 9, time: 121.9s)
+2025-07-03 15:36:21,672 - INFO - 📄 Starting: San Francisco - SF residential design guidelines
+2025-07-03 15:36:21,672 - INFO - Processing document: San Francisco - SF residential design guidelines
+2025-07-03 15:36:21,673 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:36:26,646 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:36:27,038 - INFO - BM25 index initialized with 3198 documents
+2025-07-03 15:36:27,041 - INFO - Added 132 document chunks to vector store
+2025-07-03 15:36:27,041 - INFO - ✓ Completed: San Francisco - SF residential design guidelines (~99 chunks)
+2025-07-03 15:36:27,041 - INFO - ✅ Completed: San Francisco - SF residential design guidelines (chunks: 99, time: 127.2s)
+2025-07-03 15:36:27,042 - INFO - 📊 Progress: 17/21 (81.0%) - ETA: 30s
+2025-07-03 15:36:27,042 - INFO - 📄 Starting: Sunnyvale - Sunnyvale Potable Water Design Guidelines
+2025-07-03 15:36:27,042 - INFO - Processing document: Sunnyvale - Sunnyvale Potable Water Design Guidelines
+2025-07-03 15:36:27,043 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:36:28,902 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:36:29,292 - INFO - BM25 index initialized with 3249 documents
+2025-07-03 15:36:29,295 - INFO - Added 51 document chunks to vector store
+2025-07-03 15:36:29,295 - INFO - ✓ Completed: Sunnyvale - Sunnyvale Potable Water Design Guidelines (~40 chunks)
+2025-07-03 15:36:29,295 - INFO - ✅ Completed: Sunnyvale - Sunnyvale Potable Water Design Guidelines (chunks: 40, time: 129.5s)
+2025-07-03 15:36:29,296 - INFO - 📄 Starting: Sunnyvale - Sunnyvale Single Family Home Design Techniques
+2025-07-03 15:36:29,296 - INFO - Processing document: Sunnyvale - Sunnyvale Single Family Home Design Techniques
+2025-07-03 15:36:29,297 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:36:32,055 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:36:32,390 - INFO - BM25 index initialized with 3329 documents
+2025-07-03 15:36:32,394 - INFO - Added 80 document chunks to vector store
+2025-07-03 15:36:32,394 - INFO - ✓ Completed: Sunnyvale - Sunnyvale Single Family Home Design Techniques (~60 chunks)
+2025-07-03 15:36:32,394 - INFO - ✅ Completed: Sunnyvale - Sunnyvale Single Family Home Design Techniques (chunks: 60, time: 132.6s)
+2025-07-03 15:36:32,395 - INFO - 📊 Progress: 19/21 (90.5%) - ETA: 14s
+2025-07-03 15:36:32,395 - INFO - 📄 Starting: Sunnyvale - Sunnyvale NonResidential Design Guidelines
+2025-07-03 15:36:32,395 - INFO - Processing document: Sunnyvale - Sunnyvale NonResidential Design Guidelines
+2025-07-03 15:36:32,396 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:36:34,987 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:36:35,345 - INFO - BM25 index initialized with 3404 documents
+2025-07-03 15:36:35,349 - INFO - Added 75 document chunks to vector store
+2025-07-03 15:36:35,349 - INFO - ✓ Completed: Sunnyvale - Sunnyvale NonResidential Design Guidelines (~54 chunks)
+2025-07-03 15:36:35,349 - INFO - ✅ Completed: Sunnyvale - Sunnyvale NonResidential Design Guidelines (chunks: 54, time: 135.5s)
+2025-07-03 15:36:35,350 - INFO - 📄 Starting: California - CALGreenCommercialMandatoryChecklist
+2025-07-03 15:36:35,350 - INFO - Processing document: California - CALGreenCommercialMandatoryChecklist
+2025-07-03 15:36:35,351 - INFO - Creating embeddings with Ollama (nomic-embed-text)...
+2025-07-03 15:36:37,948 - INFO - HTTP Request: POST http://localhost:11434/api/embed "HTTP/1.1 200 OK"
+2025-07-03 15:36:38,314 - INFO - BM25 index initialized with 3467 documents
+2025-07-03 15:36:38,319 - INFO - Added 63 document chunks to vector store
+2025-07-03 15:36:38,319 - INFO - ✓ Completed: California - CALGreenCommercialMandatoryChecklist (~50 chunks)
+2025-07-03 15:36:38,319 - INFO - ✅ Completed: California - CALGreenCommercialMandatoryChecklist (chunks: 50, time: 138.5s)
+2025-07-03 15:36:38,321 - INFO - 📊 Progress: 21/21 (100.0%) - ETA: 0s
+2025-07-03 15:36:38,322 - INFO - 🎉 Ingestion completed!
+2025-07-03 15:36:38,322 - INFO - 📊 Final Results:
+2025-07-03 15:36:38,322 - INFO -    Session ID: 20250703_153420
+2025-07-03 15:36:38,322 - INFO -    Total Documents: 21
+2025-07-03 15:36:38,322 - INFO -    Completed: 21
+2025-07-03 15:36:38,322 - INFO -    Failed: 0
+2025-07-03 15:36:38,322 - INFO -    Skipped: 0
+2025-07-03 15:36:38,322 - INFO -    Success Rate: 100.0%
+2025-07-03 15:36:38,322 - INFO -    Total Time: 137.9s
+2025-07-03 15:36:38,322 - INFO - 🧹 Cleaning up successful session...
